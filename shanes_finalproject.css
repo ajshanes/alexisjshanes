@@ -1,0 +1,35 @@
+
+
+head {
+  margin: 70px;
+}
+
+body {
+  margin: 70px;
+}
+
+figure {
+  margin-left: -70px;
+  margin-right: -70px;
+}
+
+.grid-item{
+  margin-top: 70px;
+  margin-bottom: 70px;
+  max-width: 700px;
+  margin: auto;
+  border: 3px solid black;
+  padding: 30px;
+  margin-top: 50px;
+  margin-bottom:50px;
+}
+
+.caption {
+  margin-left: 70px;
+}
+
+.about {
+  font-style: italic;
+  font-color: gray;
+  font-size: 14px;
+}
